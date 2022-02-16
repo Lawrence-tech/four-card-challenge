@@ -1,0 +1,78 @@
+/*<style>
+  .attribution { font-size: 11px; text-align: center; }
+  .attribution a { color: hsl(228, 45%, 44%); }
+</style>*/
+body {
+  background-color:  hsl(0, 0%, 98%);
+  font-size: 15px;
+  font-family: Poppins;
+  font-weight: 400;
+  width: 1440px;
+}
+
+h1 {
+  text-align: center;
+  margin: 40px auto;
+}
+
+p {
+  line-height: 2;
+}
+
+.intro {
+  text-align: center;
+  margin: auto;
+}
+
+.left {
+  margin: auto 20% auto 5px;
+  border-top-style: solid;
+  border-color: hsl(180, 62%, 55%);
+  width: 20%;
+  position: absolute;
+  top: 18rem;
+  left: 7rem;
+}
+
+.top-middle {
+  border-top-style: solid;
+border-color: hsl(0, 78%, 62%);
+  width: 20%;
+  height: 30%;
+  position: absolute;
+  left: 30rem;
+  margin-bottom: 2rem;
+}
+
+.bottom-middle {
+  border-top-style: solid;
+  border-color:  HSL(34, 97%, 64%);
+  width: 20%;
+  height: 30%;
+  left: 30rem;
+  top: 25rem;
+  position: absolute;
+}
+
+.right {
+  border-top-style: solid;
+  border-color: hsl(212, 86%, 64%);
+  position: absolute;
+  width: 20%;
+  height: 30%;
+  margin: auto 10px;
+  right: 7rem;
+  top: 18rem;
+}
+.sup{
+  float:right;
+}
+.team{
+  float:right;
+}
+.karma{
+  float:right;
+}
+.calc{
+  float:right;
+}
